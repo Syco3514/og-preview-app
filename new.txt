@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:23:23	1477/1477	---MCZ	404	error ('Not%20Found')	text/html	date:Sun,%2019%20Jul%202026%2016:23:25%20GMT	https://facebook-live68.vercel.app/robots.txt		(from )
+21:23:24	13125/13125	---MCZ	200	added ('OK')	text/html	etag:W/%22b74c0b423a824179d5675ffcd7f599c8%22	https://facebook-live68.vercel.app/	/sdcard/jj/facebook-live68.vercel.app/index.html	(from )
+21:23:26	11440/11440	---M-Z	200	added ('OK')	text/javascript	etag:%22-375139978%22	http://s10.histats.com/js15_as.js	/sdcard/jj/s10.histats.com/js15_as.js	(from https://facebook-live68.vercel.app/)
+21:23:26	69247/69247	---M--	200	added ('OK')	image/jpeg	etag:%22dd558650107d9fe8b6042089cea35f31%22	https://res.cloudinary.com/dl4ijdbe/image/upload/v1784093384/xziiq7rs2ghg30gq2iax.jpg	/sdcard/jj/res.cloudinary.com/dl4ijdbe/image/upload/v1784093384/xziiq7rs2ghg30gq2iax.jpg	(from https://facebook-live68.vercel.app/)
+21:23:27	43/43	---M--	200	added ('OK')	image/gif	date:Sun,%2019%20Jul%202026%2016:23:28%20GMT	http://sstatic1.histats.com/0.gif?5009121&101	/sdcard/jj/sstatic1.histats.com/03485.gif	(from https://facebook-live68.vercel.app/)
